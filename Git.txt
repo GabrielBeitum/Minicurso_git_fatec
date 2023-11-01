@@ -4,3 +4,9 @@ Comandos:
 	config --global user.email gabrielbeitum944@gmail.com [E-mail]
 
 	git init - crição de pasta de config
+	git add . [add arquivos]
+	git commit -m "criado index.html"
+	git checkout -b dev [criação da brand]
+	git checkout dev [alteração da brand]
+	git.ignore [criação de arquivo, q exclui certos arquivo e n os upa para o github]
+	git branch [verificar a branch ao qual esta]
