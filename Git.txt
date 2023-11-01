@@ -1,0 +1,6 @@
+
+Comandos:
+	git config --global user.name GabrielBeitum [usuario]
+	config --global user.email gabrielbeitum944@gmail.com [E-mail]
+
+	git init - crição de pasta de config
